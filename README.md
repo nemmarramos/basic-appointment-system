@@ -22,6 +22,10 @@
 5. run `npm install`
 6. run `npm start` or `npm run dev`
 
+#### Test
+- `npm run test`
+- `npm run test:coverage` - with coverage
+
 ### Web
 
 1. run `cd web`
