@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GraphQL Mutations bookAppointment() - user should successfully book an appointment 1`] = `
+Object {
+  "data": Object {
+    "bookAppointment": Object {
+      "concern": "tesadas",
+      "createdAt": null,
+      "id": "1",
+      "medicalHistory": "medicalHistory",
+      "refCode": null,
+      "scheduleDate": "05-16-2022",
+      "scheduleTime": "08:00",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
